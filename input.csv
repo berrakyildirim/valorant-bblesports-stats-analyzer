@@ -1,0 +1,16 @@
+id,nickname,name,surname,versus,map,date,kill,death,assist,first kill,first death
+1,Sociablee,Volkan,Yonal,GX,Ascent,30.09.2025,11,14,0,2,2
+2,Jamppi,Elias,Olkkonen,GX,Ascent,30.09.2026,6,12,7,0,1
+3,MAGNUM,Martin,Penkov,GX,Ascent,30.09.2027,8,14,4,1,2
+4,PROFEK,Dawid,Swiec,GX,Ascent,30.09.2028,2,15,2,1,1
+5,LewN,Burak,Alkan,GX,Ascent,30.09.2029,2,15,3,0,5
+1,Sociablee,Volkan,Yonal,Team Heretics,Ascent,22.09.2025,17,17,7,2,0
+2,Jamppi,Elias,Olkkonen,Team Heretics,Ascent,22.09.2026,15,17,13,1,5
+3,MAGNUM,Martin,Penkov,Team Heretics,Ascent,22.09.2027,17,17,10,2,2
+4,PROFEK,Dawid,Swiec,Team Heretics,Ascent,22.09.2028,15,17,13,1,5
+5,LewN,Burak,Alkan,Team Heretics,Ascent,22.09.2029,15,18,13,1,1
+6,Elite,Efe,Teber,KOI,Split,23.02.2024,20,18,3,3,4
+7,reazy,Kaan,Urpek,KOI,Split,23.02.2025,18,15,7,1,2
+8,QutionerX,Dogukan,Dural,KOI,Split,23.02.2026,18,19,6,4,4
+9,pAura,Melih,Karaduran,KOI,Split,23.02.2027,12,18,5,1,2
+10,Brave,Eren,Kasirga,KOI,Split,23.02.2028,8,17,2,0,2
